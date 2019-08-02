@@ -1,0 +1,12 @@
+intresting urls
+-------------------------
+/seeds/seed.txt.gpg
+/hidden/note.txt
+
+
+notes
+----------------------
+use gpg to decrypt seed.txt.gpg
+
+in main page...no idea:
+	<!-- VGhpcyBpcyBqdXN0IHRvIHJlbWFpbmQgeW91IHRoYXQgaXQncyBMZXZlbCAyIG9mIE1pc3Npb24tUHVtcGtpbiEgOyk= --> 
